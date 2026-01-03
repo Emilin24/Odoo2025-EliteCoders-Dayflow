@@ -1,17 +1,25 @@
 # Dayflow HRMS
 
 Dayflow is a modern, web-based Human Resource Management System (HRMS) built to streamline employee management, attendance tracking, leave management, and payroll processing. It features distinct dashboards for HR Administrators and Employees, ensuring a secure and role-specific experience.
+<img width="1876" height="918" alt="dashboard" src="https://github.com/user-attachments/assets/fcb5ff25-652b-43ac-8a3b-82920c5249d4" />
+
 ##  Features included:
 ### For Employees
 *   * attendance Tracking*: Easy Check-In and Check-Out with real-time status updates and a 10-day history view.
 *   *Leave Management*: Apply for leaves with dates and reasons. View the status of requests (Approved/Rejected/Pending) along with comments from HR.
 *   *Profile Management*: View and update personal details (Address, Phone). View read-only job information (Department, Designation, Salary Structure updated by HR).
 *   *Payroll History*: View a complete history of salary payments received.
+<img width="1880" height="916" alt="leave req" src="https://github.com/user-attachments/assets/1f7dd95b-7463-4e8d-8c64-f3234e2c66fc" />
+
 ### For HR Administrators
 *   *Employee Management*: View all employees, edit their Department, Designation, Joining Date, and Base Salary.
 *   *Leave Requests*: Review pending leave requests. Approve or Reject them with optional comments.
 *   *Payroll Processing*: Manage employee base salaries and process monthly payroll with a single click. View payment history.
 *   *Role-Based Access*: Secure login ensures only authorized HR personnel can access administrative features.
+<img width="1797" height="868" alt="hr" src="https://github.com/user-attachments/assets/984d81cb-446a-4ec9-a3ef-ec03ecf533d6" />
+
+<img width="1712" height="904" alt="payroll" src="https://github.com/user-attachments/assets/19e186cc-4a21-4cfd-9dd5-0e268a5babf7" />
+
 ##  Tech Stack
 *   *Frontend*: React (Vite)
 *   *Styling*: Tailwind CSS, Lucide React (Icons)
