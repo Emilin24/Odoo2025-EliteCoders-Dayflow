@@ -64,3 +64,8 @@ Dayflow is a modern, web-based Human Resource Management System (HRMS) built to 
 *   *RLS (Row Level Security)*:
     *   *Employees* can only see/edit their own data.
     *   *HR* has full access to view and manage all employee data.
+## 👥 Team: Elite Coders
+* **Emilin Sana K S**
+* **Gabriela Brigita Fernandez**
+* **Jesse Sathyadas**
+* **Adithya Krishnan K S**
