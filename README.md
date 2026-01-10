@@ -7,7 +7,7 @@ Dayflow is a modern, web-based Human Resource Management System (HRMS) built to 
 
 ##  Features included:
 ### For Employees
-*   * attendance Tracking*: Easy Check-In and Check-Out with real-time status updates and a 10-day history view.
+*   *Attendance Tracking*: Easy Check-In and Check-Out with real-time status updates and a 10-day history view.
 *   *Leave Management*: Apply for leaves with dates and reasons. View the status of requests (Approved/Rejected/Pending) along with comments from HR.
 *   *Profile Management*: View and update personal details (Address, Phone). View read-only job information (Department, Designation, Salary Structure updated by HR).
 *   *Payroll History*: View a complete history of salary payments received.
